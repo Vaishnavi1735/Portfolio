@@ -22,7 +22,7 @@ Each project includes screenshots, feature descriptions, and design style.
 
 ##  Built With
 
-- HTML
+- UI/UX
 
 ##  Disclaimer
 
