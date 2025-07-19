@@ -1,27 +1,34 @@
-#  Screen Recorder App UI Design
+#  My Portfolio Website
 
-This is a minimal and modern **Screen Recorder App UI**, designed for mobile platforms. The interface focuses on ease of use, clean layout, and essential recording features.
-
-
-
-##  Features
-
-- **Home Screen**: Start/stop recording button with timer
-- **Recording Controls**: Pause, resume, and stop recording
-- **Saved Videos**: List of recorded videos with file details
-- **Settings**: Video resolution, frame rate, audio toggle
-- **Minimal UI**: Flat design for distraction-free experience
+Welcome to my **personal portfolio website** showcasing my UI/UX designs and project works.  
+This website highlights some of the mobile app UI clones and redesigns I’ve created — including WhatsApp, Instagram, Food App, and more.
 
 
-## Tech Stack
+## What’s Inside?
 
-- UI Tool Used: (Figma HTML)
-- Platform: Mobile UI Screens
+- **Home Page** – Introduction and overview
+- **Projects Section** – Screens and descriptions of my design works
+- **About Me** – My background and interests
+- **Contact Section** – Ways to reach me via email or social media
 
-## Disclaimer
+##  Projects Featured
 
-> This is a UI design project for **educational and portfolio** purposes only.  
-> It does not include actual screen recording functionality.
+- ✅ WhatsApp UI Redesign
+- ✅ Instagram UI Redesign
+- ✅ Food Delivery App
+- ✅ Screen Recorder App (UI Only)
+
+Each project includes screenshots, feature descriptions, and design style.
+
+##  Built With
+
+- HTML
+
+##  Disclaimer
+
+> All UI designs showcased are made for **educational and portfolio purposes** only.  
+> These are not functional app clones and are not affiliated with any real companies.
+
 
 
 
